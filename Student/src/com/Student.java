@@ -7,4 +7,9 @@ public class Student {
 		System.out.println("I am gargi");
 	}
 
+	public void remove()
+	{
+		System.out.println("Gargi Removed");
+	}
+
 }
